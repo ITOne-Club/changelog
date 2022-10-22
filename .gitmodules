@@ -1,0 +1,4 @@
+[submodule "suy-system"]
+  path = suy-system
+  url = https://github.com/ITOne-Club/changelog.git  
+  branch = suy-system
